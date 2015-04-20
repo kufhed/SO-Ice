@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SO-Ice</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="launch">Luncurkan</string>
+    <string name="help">Bantuan</string>
+    <string name="close_apps">Keluar Aplikasi</string>
+    <string name="close_apps2">Apakah kamu ingin menutup aplikasi ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="tulis_help">Terimakasih telah menggunakan aplikasi sign to voice.\nAplikasi ini menggunakan Bahasa Isyarat INDOnesia (BISINDO) yang dikhususkan untuk para tuna rungu wicara di seluruh indonesia.\nSilahkan mencoba aplikasi ini, kiranya dapat lebih bermanfaat dan membantu orang yang membutuhkan.</string>
+
+</resources>

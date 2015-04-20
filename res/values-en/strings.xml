@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SO-Ice</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="launch">Launch</string>
+    <string name="help">How To Use</string>
+    <string name="close_apps">Close App</string>
+    <string name="close_apps2">Do you want to close this application?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="tulis_help">Thank you for using the sign to voice applications. \ NAplikasi using Indonesian Sign Language (BISINDO) is devoted to the deaf mute throughout Indonesia. \ NPlease try this application, may be more useful and help people in need.</string>
+
+</resources>

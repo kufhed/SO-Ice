@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/touch"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center|right"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_help"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/help" />
+
+        <Button
+            android:id="@+id/btn_developer"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/developer" />
+
+        <Button
+            android:id="@+id/btn_more"
+            android:layout_width="30dp"
+            android:layout_height="25dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_more" />
+    </LinearLayout>
+
+    <blink
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp" >
+
+        <Button
+            android:id="@+id/btn_hand"
+            android:layout_width="125dp"
+            android:layout_height="90dp"
+            android:background="@drawable/hand_a" />
+    </blink>
+
+</LinearLayout>
